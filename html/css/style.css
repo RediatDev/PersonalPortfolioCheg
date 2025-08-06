@@ -72,7 +72,7 @@ a:hover {
 }
 
 ::selection {
-    background-color: #056c5f;
+    /* background-color: #056c5f; */
     color: #ffffff;
 }
 
@@ -262,7 +262,7 @@ nav ul li.active a::before {
 }
 
 .slicknav_nav a {
-    color: #056c5f;
+    /* color: #056c5f; */
     font-weight: 500;
 }
 
@@ -314,7 +314,7 @@ nav ul li.active a::before {
 }
 
 .border-btn:hover {
-    background-color: #056c5f;
+    /* background-color: #056c5f; */
     border-color: #056c5f;
     color: #ffffff;
 }
@@ -360,7 +360,7 @@ nav ul li.active a::before {
 }
 
 .offcanvas-times:hover {
-    color: #056c5f;
+    /* color: #056c5f; */
 }
 
 .offcanvas p {
@@ -390,7 +390,7 @@ nav ul li.active a::before {
 }
 
 .single-offcanvas-contact a:hover {
-    color: #056c5f;
+    /* color: #056c5f; */
 }
 
 .offcanvas.show {
@@ -555,8 +555,8 @@ nav ul li.active a::before {
 }
 
 .about-btn .btn {
-    background-color: #056c5f;
-    border-color: #056c5f;
+    /* background-color: #056c5f; */
+    /* border-color: #056c5f; */
     color: #ffffff;
     margin-right: 10px;
     margin-bottom: 30px;
@@ -566,7 +566,7 @@ nav ul li.active a::before {
 .about-btn .btn:hover,
 .about-btn .border-btn {
     background-color: transparent;
-    border-color: #056c5f;
+    /* border-color: #056c5f; */
     color: #056c5f;
 }
 .eighty{
@@ -577,8 +577,8 @@ nav ul li.active a::before {
     text-align: justify;
 }
 .about-btn .border-btn:hover {
-    background-color: #056c5f;
-    border-color: #056c5f;
+    /* background-color: #056c5f; */
+    /* border-color: #056c5f; */
     color: #ffffff;
 }
 
@@ -615,7 +615,7 @@ nav ul li.active a::before {
 }
 
 .single-services ul li i {
-    color: #056c5f;
+    /* color: #056c5f; */
     margin-right: 22px;
 }
 
@@ -660,7 +660,7 @@ nav ul li.active a::before {
 }
 
 .single-progress-bar .progress-bar {
-    background-color: #056c5f;
+    /* background-color: #056c5f; */
     color: #ffffff;
     font-size: 12px;
     text-align: right;
@@ -702,7 +702,7 @@ nav ul li.active a::before {
 
 .portfolio-filter li:hover,
 .portfolio-filter li.active {
-    border-color: #056c5f;
+    /* border-color: #056c5f; */
 }
 
 .single-portfolio {
@@ -711,7 +711,7 @@ nav ul li.active a::before {
 }
 
 .single-portfolio::before {
-    background-color: #056c5f;
+    /* background-color: #056c5f; */
     content: "";
     position: absolute;
     top: 0;
@@ -771,7 +771,7 @@ nav ul li.active a::before {
 }
 
 .portfolio-text h2 a:hover {
-    color: #000a2d;
+    /* color: #000a2d; */
 }
 
 .single-portfolio:hover::before {
@@ -869,7 +869,7 @@ nav ul li.active a::before {
 
 .experience-icon i {
     background-color: #f6f5ff;
-    color: #056c5f;
+    /* color: #056c5f; */
     font-size: 24px;
     padding: 28px;
 }
@@ -952,7 +952,7 @@ nav ul li.active a::before {
 }
 
 .education-img i {
-    background-color: #056c5f;
+    /* background-color: #056c5f; */
     box-shadow: 0 8px 16px 0 rgba(5, 108, 95, 0.3);
     color: #ffffff;
     font-size: 20px;
@@ -1365,7 +1365,7 @@ footer h2 {
 }
 
 .single-footer-contact a:hover {
-    color: #056c5f;
+    /* color: #056c5f; */
 }
 
 .copyright-text {
